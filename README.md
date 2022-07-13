@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **@nprblmm_ (twitter)**
+- 📫 How to reach me **1910031802129@sar.ac.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
