@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nprblmm_" target="blank"><img src="https://img.shields.io/twitter/follow/nprblmm_?logo=twitter&style=for-the-badge" alt="nprblmm_" /></a> </p>
 
-- 🔭 I’m currently working on **HBAR Marketplace**
+- 🔭 I’m currently working on **STMIK Amik Riau**
 
 - 💬 Ask me about **Android**
 
